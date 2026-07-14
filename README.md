@@ -89,7 +89,6 @@ The objective of this project was to validate the core functionality of the Swee
 - ✅ Bug Reports
 - ✅ Bug Summary Report
 - ✅ Device Matrix
-- ✅ Test Execution Report
 
 ---
 
