@@ -157,7 +157,6 @@ Sweetshop-Manual-Testing/
 ## Author
 
 **Hardik Dagia**
-
 Aspiring Software Test Engineer
 
 GitHub: https://github.com/DarkPanda-cyber
