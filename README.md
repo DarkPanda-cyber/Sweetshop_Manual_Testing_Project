@@ -158,6 +158,6 @@ Sweetshop-Manual-Testing/
 
 **Hardik Dagia**
 
-Aspiring Software Test Engineer / QA Analyst
+Aspiring Software Test Engineer
 
 GitHub: https://github.com/DarkPanda-cyber
